@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, I'm Jamshid Abduqodirov - aka J4MSH1D 👋
 
-<!--
-**J4MSH1D/J4MSH1D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student, Freelancer and Developer!!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my personal website: [Portfolio](https://jamshid-abduqodirov.vercel.app/)
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Learn more about web3
+- ⚡ Fun fact: I love to draw and play violin / drums
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+- [My Email](jamshidabdukadirov01@gmail.com)
+- [Me on Github](https://github.com/J4MSH1D)
+- [Me on Telegram](https://t.me/jamshidabduqodirov)
+- [Me on LinkedIn](https://www.linkedin.com/in/jamshid-abduqodirov-524748232/)
