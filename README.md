@@ -10,7 +10,6 @@
 
 ### Connect with me:
 
-- [My Email](jamshidabdukadirov01@gmail.com)
 - [Me on Github](https://github.com/J4MSH1D)
 - [Me on Telegram](https://t.me/jamshidabduqodirov)
 - [Me on LinkedIn](https://www.linkedin.com/in/jamshid-abduqodirov-524748232/)
