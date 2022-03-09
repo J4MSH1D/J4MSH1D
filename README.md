@@ -1,4 +1,4 @@
-# Hi there, I'm J4MSH1D 👋
+# Hi there, I'm Jamshid Abduqodirov - aka J4MSH1D 👋
 
 ## I'm a Student, Freelancer and Developer!!
 
